@@ -1,4 +1,4 @@
-# IntroToHaskell
+# TestingHaskell
 
 Haskell is a functional programming language that was developed in the late 1980s. It is named after the mathematician Haskell Curry and is designed to be purely functional, meaning that it does not have any side effects or mutable state.
 
